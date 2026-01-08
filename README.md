@@ -1,6 +1,6 @@
 # DealLoo
 
-DealLoo is a cloud-native web platform that helps users find the lowest available price of a product across multiple online marketplaces. Instead of selling products directly, it aggregates, compares, tracks price history, and notifies users about price drops — enabling smarter buying decisions.
+DealLoo is a web platform that helps users find the lowest available price of a product across multiple online marketplaces. Instead of selling products directly, it aggregates, compares, tracks price history, and notifies users about price drops — enabling smarter buying decisions.
 
 The system is built using a modern web stack and deployed on AWS to demonstrate real-world cloud computing concepts such as scalability, availability, monitoring, and security.
 
